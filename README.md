@@ -1,2 +1,2 @@
 # JavaMasterClass1-
-My journey as a Java developer.
+My journey as a Java
